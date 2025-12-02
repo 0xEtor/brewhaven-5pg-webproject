@@ -389,6 +389,10 @@ div.container {
 
 
 @media (max-width: 768px) {
+    .logo {
+        font-size: 16px;
+    }
+    
     .nav-links {
         gap: 15px;
         font-size: 14px;
@@ -428,3 +432,4 @@ div.container {
         font-size: 28px;
     }
 }
+
